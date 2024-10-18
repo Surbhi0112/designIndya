@@ -1,0 +1,73 @@
+@media only screen and (min-width: 0px) and (max-width: 450px)  {
+    .head{
+        font-size: 36px;
+    }
+    #element{
+        margin-left: 7%;
+        font-size: 28px;
+    }
+    .Subscribe2 {
+        padding: 0px;
+    }
+    .re-team{
+width: 100% !important;
+    }
+    .team{
+        width: 50% !important;
+    }
+    .email {
+        margin: 1px 16px 20px 60px;
+        width: 250px;
+    }
+    .name{
+        padding: 0px 20px;
+    }
+    
+.align {
+    margin: 29px 0px 25px 100px;
+}
+.read1 {
+    display: block;
+   margin: auto;
+}
+
+.navbar-toggler-icon {
+    
+    background-color: #ffff;
+}
+.whatsapp {
+    margin: 10px 0px -60px 45px;
+
+}
+.blog {
+    font-size: 35px;
+}
+
+.blog1 {
+    margin: auto;
+    display: block;
+    padding: 0px 20px;
+    margin-top: 10px;
+}
+
+p,h4 {
+    padding: 0px 20px;
+}
+.trust {
+    width: 40% !important;
+    margin: auto;
+    display: block;
+    margin-bottom: 1px !important;
+}
+
+.process {
+    height: auto;
+}
+.modalbtn {
+     margin-left: 0px; 
+}
+.image1{
+    width: 100%;
+}
+
+}
